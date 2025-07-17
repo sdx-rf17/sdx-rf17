@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./realleyes.jpg" width="400" alt="Picture" />
+<img src="./realleyes.jpg" width="500" style="margin-top: 20px;" alt="Picture" />
 </div>
 
 <h1 align="center">Hi there 👋, I'm SADEX RAFAA </h1>
@@ -82,13 +82,17 @@
 
 ## 💥 Boss Fight: _Nybhane – Dream Reaper_
 
-Start Date: 28 Sept 2024  
-Time Remaining:  
-![countdown](https://cdn.pixabay.com/photo/2017/10/10/21/46/hourglass-2835542_960_720.png)
+**🗓️ Start Date:** 28 Sept 2024  
+**⏳ Time Remaining:**
 
-> 🎯 Goal: Claim Back Focus & Flow
+<div align="center">
+  <img src="https://cdn.pixabay.com/photo/2017/10/10/21/46/hourglass-2835542_960_720.png" width="200" alt="Countdown Hourglass" />
+</div>
+
+> 🎯 **Goal:** _Claim Back Focus & Flow_
 
 ---
+
  
 
 ## 💡 Quote of the Day
