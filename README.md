@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./realleyes.jpg" width="200" alt="Picture" />
+<img src="./realleyes.jpg" width="400" alt="Picture" />
 </div>
 
 <h1 align="center">Hi there 👋, I'm SADEX RAFAA </h1>
