@@ -1,6 +1,7 @@
 
-![Profile Picture](./realleyes.jpg)
-
+<div align="center">
+<img src="./realleyes.jpg" width="200" alt="Picture" />
+</div>
 
 <h1 align="center">Hi there 👋, I'm SADEX RAFAA </h1>
 <h3 align="center">A Passionate Learner & Aspiring Backend Developer</h3>
@@ -20,7 +21,7 @@
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,bash,linux,git,vscode,html,js,nodejs,mysql,netlify" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,bash,vim,kali,linux,git,vscode,js,nodejs,mysql" />
 </p>
 
 ---
