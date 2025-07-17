@@ -7,7 +7,7 @@
 <h3 align="center"> Backend Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wwZTdobWJvZjBmdW1sNXlvMTNndHViaGc2Mjdocm1qczRkcHNyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Digital Grid" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wwZTdobWJvZjBmdW1sNXlvMTNndHViaGc2Mjdocm1qczRkcHNyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" yle="width:auto; height:auto; margin-top: 20px;" alt="Digital Grid" />
 </p>
 
 ---
