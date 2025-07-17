@@ -1,5 +1,5 @@
 
-![Profile Picture](./realleyes.png)
+![Profile Picture](./realleyes.jpg)
 
 
 <h1 align="center">Hi there 👋, I'm SADEX RAFAA </h1>
