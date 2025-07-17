@@ -1,3 +1,7 @@
+
+![Profile Picture](./realleyes.png)
+
+
 <h1 align="center">Hi there 👋, I'm SADEX RAFAA </h1>
 <h3 align="center">A Passionate Learner & Aspiring Backend Developer</h3>
 
@@ -10,19 +14,8 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently learning Linux Security, Backend Development, and C++
-- 🌱 I’m exploring topics like Whonix-style architecture, Privacy tools, and Algorithms
+- 🌱 I’m exploring topics like operating system architecture, Privacy tools, and Algorithms
 - ⚡ Fun fact: I love deep system security and creative problem solving.
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="twitter" /></a>
-</p>
-
----
 
 ## 🧰 Languages & Tools
 
@@ -34,96 +27,71 @@
 
 ## 📈 GitHub Stats
 
-| Stats | Top Languages |
-|-------|----------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight) |
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sadekrafaa&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00ffc6&title_color=00ffc6" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## ⚙️ Tech Stack
 
-````yaml
+```yaml
 - OS: Arch Linux, Kali, Whonix, Ubuntu
 - Tools: VS Code, GDB, Git, Tor, VirtualBox, QEMU
 - Languages: C++, Js, Bash
 - Backend: Node.js, Express.js, SQLite, MySQL
-````
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👾%20CyberMage%20Profile&fontSize=40&animation=fadeIn" />
+```
 
-## ⚔️ Level 8 — Cyber Mage 🧠
-> "Hack the system. Upgrade the mind."
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👾%20Backend%20Profile&fontSize=40&animation=fadeIn" />
 
-### 🎯 Current XP: 870 / 1000
-- Daily Energy  
-  HP ▮▮▮▮▯  
-  Mood ▮▮▮▯▯  
-  Focus ▮▮▮▮▮  
-  Motivation ▮▮▮▮▯  
+## ⚔️ Level 8 🧠
 
----
+## 🧬 Skill Matrix v1.0
 
-## 🧬 Skill Radar
+<div align="center">
 
-![Radar chart](https://quickchart.io/chart?c={type:'radar',data:{labels:['Intel','Core','Spiritual','Psyche','Physical'],datasets:[{label:'Skills',data:[142,203,122,178,211]}]}})
+![Skill Radar](<https://quickchart.io/chart?c={type:'radar',data:{labels:['PROGRAMMING','OSINT','LINUX','SECURITY','NETWORK'],datasets:[{label:'Skills',data:[29,19,24,23,27]}]},"options":{scale:{angleLines:{color:"rgba(0, 255, 221, 0.2)"},gridLines:{color:"rgba(144,238,144,0.9)"},pointLabels:{fontColor:"rgba(0, 200, 255, 0.8)"}}}}>)
+
+</div>
 
 ---
 
-## 🧠 Quests
+## 🧪 Skills Progress
 
-- ✨ Main Quest: Learn Linux PrivEsc  
-- 🔥 Side Quest: Finish 3 THM rooms this week  
-- 📜 Pending: Write a blog on VPN tunneling
-
----
-
-## 🧪 TryHackMe Skills Progress
-
-| Skill             | XP       |
-|-------------------|----------|
-| 🧱 Network         | ▓▓▓▓▓▓░░░░ 60% |
-| 🔒 Security        | ▓▓▓▓▓▓▓▓░░ 80% |
-| 🐧 Linux           | ▓▓▓▓▓▓░░░░ 55% |
-| 👨‍💻 Scripting      | ▓▓▓▓▓░░░░░ 50% |
-| 🧠 OSINT           | ▓▓▓░░░░░░ 30% |
+| Skill          | XP             |
+| -------------- | -------------- |
+| 👨‍💻 Programming | ▓▓▓▓▓▓▓▓░░ 80% |
+| 🧱 Network     | ▓▓▓▓▓▓░░░░ 60% |
+| 🐧 Linux       | ▓▓▓▓▓▓░░░░ 55% |
+| 🔒 Security    | ▓▓▓▓▓░░░░░ 50% |
+| 🧠 OSINT       | ▓▓░░░░░░ 20%  |
 
 ---
 
-## 💥 Boss Fight: *Nybhane – Dream Reaper*
+## 💥 Boss Fight: _Nybhane – Dream Reaper_
+
 Start Date: 28 Sept 2024  
 Time Remaining:  
-![countdown](https://cdn.pixabay.com/photo/2017/10/10/21/46/hourglass-2835542_960_720.png)  
+![countdown](https://cdn.pixabay.com/photo/2017/10/10/21/46/hourglass-2835542_960_720.png)
+
 > 🎯 Goal: Claim Back Focus & Flow
 
 ---
-
-## 🧪 Dopamine Boost
-
-> _“You gain +20 Energy by completing 1 THM room before 10 AM.”_  
-Mentor’s Blessing: ✨ Initiation Incantation
-
----
-
-## 🎓 Learning Curriculum
-- [x] THM – Intro to Cyber Security  
-- [x] Bash for Hackers  
-- [ ] Active Directory Basics  
-- [ ] Web Exploitation Path  
-
----
-
-## 🧾 Stats
-
-| Trait         | XP   |
-|---------------|------|
-| Physical      | 211  |
-| Psyche        | 178  |
-| Intel         | 146  |
-| Spiritual     | 122  |
-| Core          | 203  |
-
----
+ 
 
 ## 💡 Quote of the Day
+
 > “The quieter you become, the more you can hear.” – Ram Dass
 
 ---
