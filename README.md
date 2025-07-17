@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently learning Linux Security, Backend Development, and C++
 - 🌱 I’m exploring topics like Whonix-style architecture, Privacy tools, and Algorithms
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
 - ⚡ Fun fact: I love deep system security and creative problem solving.
 
 ---
@@ -28,7 +27,7 @@
 ## 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,vscode,html,css,js,nodejs,mysql,sqlite,netlify" />
+  <img src="https://skillicons.dev/icons?i=cpp,bash,linux,git,vscode,html,js,nodejs,mysql,netlify" />
 </p>
 
 ---
@@ -46,5 +45,5 @@
 `yaml
 - OS: Arch Linux, Kali, Whonix, Ubuntu
 - Tools: VS Code, GDB, Git, Tor, VirtualBox, QEMU
-- Languages: C++, Python, Bash
+- Languages: C++, Js, Bash
 - Backend: Node.js, Express.js, SQLite, MySQL
