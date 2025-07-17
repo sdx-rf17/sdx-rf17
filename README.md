@@ -1,15 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm SADEX RAFAA </h1>
+<h3 align="center">A Passionate Learner & Aspiring Backend Developer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-**sadek-rafaa/sadek-rafaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently learning Linux Security, Backend Development, and C++
+- 🌱 I’m exploring topics like Whonix-style architecture, Privacy tools, and Algorithms
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- ⚡ Fun fact: I love deep system security and creative problem solving.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="twitter" /></a>
+</p>
+
+---
+
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,vscode,html,css,js,nodejs,mysql,sqlite,netlify" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+| Stats | Top Languages |
+|-------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight) |
+
+---
+
+## ⚙️ Tech Stack
+
+`yaml
+- OS: Arch Linux, Kali, Whonix, Ubuntu
+- Tools: VS Code, GDB, Git, Tor, VirtualBox, QEMU
+- Languages: C++, Python, Bash
+- Backend: Node.js, Express.js, SQLite, MySQL
