@@ -7,7 +7,7 @@
 <h3 align="center"> Backend Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wwZTdobWJvZjBmdW1sNXlvMTNndHViaGc2Mjdocm1qczRkcHNyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" yle="width:auto; height:auto; margin-top: 20px;" alt="Digital Grid" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wwZTdobWJvZjBmdW1sNXlvMTNndHViaGc2Mjdocm1qczRkcHNyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" style="width:auto; height:auto; margin-top: 20px;" alt="Digital Grid" />
 </p>
 
 ---
@@ -18,32 +18,23 @@
 - 🌱 I’m exploring topics like operating system architecture, Privacy tools, and Algorithms
 - ⚡ Fun fact: I love deep system security and creative problem solving.
 
-## 🧪 Skills Progress & Matrix
+## 🧪 Skills Progress
 
-<table>
-  <tr>
-    <td>
+| Skill          | Level         |
+| -------------- | -------------- |
+| 👨‍💻 Programming | ▓▓▓▓▓▓▓▓░░ 80% |
+| 🧱 Network     | ▓▓▓▓▓▓░░░░ 60% |
+| 🐧 Linux       | ▓▓▓▓▓▓░░░░ 55% |
+| 🔒 Security    | ▓▓▓▓▓░░░░░ 50% |
+| 🧠 OSINT       | ▓▓░░░░░░░░ 20% |
 
-<b>📊 Skills Progress</b>
+---
 
-<ul>
-  <li>👨‍💻 Programming: ▓▓▓▓▓▓▓▓░░ 80%</li>
-  <li>🧱 Network: ▓▓▓▓▓▓░░░░ 60%</li>
-  <li>🐧 Linux: ▓▓▓▓▓▓░░░░ 55%</li>
-  <li>🔒 Security: ▓▓▓▓▓░░░░░ 50%</li>
-  <li>🧠 OSINT: ▓▓░░░░░░░░ 20%</li>
-</ul>
+## 🧬 Skill Matrix
 
-</td>
-<td align="center">
-
-<b>🧬 Skill Matrix</b><br/>
-
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Programming','OSINT','Linux','Security','Network'],datasets:[{label:'Skills',data:[29,19,24,23,27]}]}}" width="250" alt="Skill Matrix"/>
-
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://quickchart.io/chart?c={%22type%22:%22radar%22,%22data%22:{%22labels%22:[%22Programming%22,%22OSINT%22,%22Linux%22,%22Security%22,%22Network%22],%22datasets%22:[{%22label%22:%22Skills%22,%22data%22:[29,19,24,23,27]}]},%22options%22:{%22scale%22:{%22angleLines%22:{%22color%22:%22rgba(0,255,221,0.2)%22},%22gridLines%22:{%22color%22:%22rgba(144,238,144,0.9)%22},%22pointLabels%22:{%22fontColor%22:%22rgba(0,200,255,0.8)%22}}}}" width="350" alt="Skill Radar" />
+</p>
 
 
 ---
@@ -53,25 +44,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,bash,vim,kali,linux,git,vscode,js,nodejs,mysql" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sadekrafaa&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00ffc6&title_color=00ffc6" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekrafaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=css" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
