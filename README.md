@@ -22,28 +22,29 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td>
 
-      <h4>📊 Skills Progress</h4>
+<b>📊 Skills Progress</b>
 
-      <table>
-        <tr><td>👨‍💻 Programming</td><td>▓▓▓▓▓▓▓▓░░ 80%</td></tr>
-        <tr><td>🧱 Network</td><td>▓▓▓▓▓▓░░░░ 60%</td></tr>
-        <tr><td>🐧 Linux</td><td>▓▓▓▓▓▓░░░░ 55%</td></tr>
-        <tr><td>🔒 Security</td><td>▓▓▓▓▓░░░░░ 50%</td></tr>
-        <tr><td>🧠 OSINT</td><td>▓▓░░░░░░░░ 20%</td></tr>
-      </table>
+<ul>
+  <li>👨‍💻 Programming: ▓▓▓▓▓▓▓▓░░ 80%</li>
+  <li>🧱 Network: ▓▓▓▓▓▓░░░░ 60%</li>
+  <li>🐧 Linux: ▓▓▓▓▓▓░░░░ 55%</li>
+  <li>🔒 Security: ▓▓▓▓▓░░░░░ 50%</li>
+  <li>🧠 OSINT: ▓▓░░░░░░░░ 20%</li>
+</ul>
 
-    </td>
-    <td valign="top" width="50%" align="center">
+</td>
+<td align="center">
 
-      <h4>🧬 Skill Matrix</h4>
+<b>🧬 Skill Matrix</b><br/>
 
-      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Programming','OSINT','Linux','Security','Network'],datasets:[{label:'Skills',data:[29,19,24,23,27]}]}}" alt="Skill Radar Chart" width="250"/>
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Programming','OSINT','Linux','Security','Network'],datasets:[{label:'Skills',data:[29,19,24,23,27]}]}}" width="250" alt="Skill Matrix"/>
 
-    </td>
+</td>
   </tr>
 </table>
+
 
 ---
 
