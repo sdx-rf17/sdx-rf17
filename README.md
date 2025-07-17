@@ -42,8 +42,9 @@
 
 ## ⚙️ Tech Stack
 
-`yaml
+````yaml
 - OS: Arch Linux, Kali, Whonix, Ubuntu
 - Tools: VS Code, GDB, Git, Tor, VirtualBox, QEMU
 - Languages: C++, Js, Bash
 - Backend: Node.js, Express.js, SQLite, MySQL
+````
