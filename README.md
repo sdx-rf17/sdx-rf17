@@ -1,7 +1,7 @@
 
-<!-- <div align="center">
+ <div align="center">
 <img src="./realleyes.jpg" style="width:auto; height:auto; margin-top: 20px;" alt="Picture" />
-</div> -->
+</div> 
 
 <h1 align="center">Hi there 👋, I'm a Backend Developer  </h1>
 
