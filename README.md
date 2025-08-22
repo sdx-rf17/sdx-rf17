@@ -20,7 +20,7 @@
 ## 🧰 Languages & Tools
 
   <p>
-    <img src="https://skillicons.dev/icons?i=cpp,js,bash,vim,kali,linux,git,vscode,js,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,bash,vim,kali,linux,git,vscode,nodejs,mysql" />
   </p>
 
 ---
