@@ -1,14 +1,13 @@
+<h1 align="center">Hi there 👋, I'm a Backend Developer  </h1>
 
  <div align="center">
 <img src="./realleyes.jpg" style="width:auto; height:auto; margin-top: 20px;" alt="Picture" />
 </div> 
-
-<h1 align="center">Hi there 👋, I'm a Backend Developer  </h1>
-
+<--!
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2wwZTdobWJvZjBmdW1sNXlvMTNndHViaGc2Mjdocm1qczRkcHNyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" style="width:auto; height:auto; margin-top: 20px;" alt="Digital Grid" />
 </p>
-
+-->
 ---
 
 ## 🧠 About Me
