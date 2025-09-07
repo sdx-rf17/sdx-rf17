@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm a Backend Developer | Problem Solver  </h1>
+<h1 align="center"> Backend Developer | Problem Solver  </h1>
 
  <div align="center">
 <img src="./realleyes.jpg" style="width:auto; height:auto; margin-top: 20px;" alt="Picture" />
